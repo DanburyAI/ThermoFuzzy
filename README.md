@@ -3,7 +3,7 @@ Repository for fuzzy logic presentation at Danbury AI - Sep 8 2016
 
 File descriptions:
 
-MakingAntsSmarter.pdf - slides from the presentation
+Fuzzy_logic.pdf - slides from the presentation titled "Making ants smarter"
 
 ThermoFuzzy.ino - Arduino source for the simple fuzzy thermostat demo software
 
